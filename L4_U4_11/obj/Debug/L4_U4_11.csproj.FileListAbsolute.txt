@@ -1,0 +1,9 @@
+C:\Users\Vartotojas\Desktop\L4_U4_11\bin\Debug\Knyga1.txt
+C:\Users\Vartotojas\Desktop\L4_U4_11\bin\Debug\Knyga2.txt
+C:\Users\Vartotojas\Desktop\L4_U4_11\bin\Debug\L4_U4_11.exe.config
+C:\Users\Vartotojas\Desktop\L4_U4_11\bin\Debug\L4_U4_11.exe
+C:\Users\Vartotojas\Desktop\L4_U4_11\bin\Debug\L4_U4_11.pdb
+C:\Users\Vartotojas\Desktop\L4_U4_11\obj\Debug\L4_U4_11.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\L4_U4_11\obj\Debug\L4_U4_11.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\L4_U4_11\obj\Debug\L4_U4_11.exe
+C:\Users\Vartotojas\Desktop\L4_U4_11\obj\Debug\L4_U4_11.pdb
